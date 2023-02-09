@@ -18,8 +18,8 @@ all:
 			RS="@"; \
 			getline l < "src/PROJECTS-gfm.md"; \
 			RS="\n" \
-		}/{::insert PROJECTS-gfm.md}/{ \
-			gsub("{::insert PROJECTS-gfm.md}", l) \
+		}/{::insert PROJECTS.md}/{ \
+			gsub("{::insert PROJECTS.md}", l) \
 		}1' ${SRC}
 	#
 	# "Transpile" README.md into HTML

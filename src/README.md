@@ -71,7 +71,7 @@ What am I up to?
 
 ### Projects ###
 
-{::insert PROJECTS-gfm.md}
+{::insert PROJECTS.md}
 
 </div>
 {:align="center"}
