@@ -1,0 +1,39 @@
+name: Rebuild
+permissions: write-all
+on:
+  push:
+    branches: [main]
+
+jobs:
+  rebuild_all:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Ruby Setup
+        uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
+        with:
+          ruby-version: "3.1"
+
+      - name: Install kramdown
+        run: gem install kramdown
+
+      - name: Install pandoc
+        run: sudo apt-get install pandoc
+
+      - name: ImageMagick Setup
+        uses: mfinelli/setup-imagemagick@v2
+
+      - name: Build Images
+        run: make img
+
+      - name: Build README.md
+        run: make
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Rebuild README.md
+          create_branch: false
+          disable_globbing: true
+          push_options: "--force"
