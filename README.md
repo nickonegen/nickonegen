@@ -66,12 +66,12 @@ const onegen = {
 
   <h3>Projects</h3>
 
-  <table style="width:98%;">
+  <table style="width:97%;">
 <colgroup>
-<col style="width: 22%" />
-<col style="width: 17%" />
-<col style="width: 19%" />
-<col style="width: 38%" />
+<col style="width: 24%" />
+<col style="width: 18%" />
+<col style="width: 20%" />
+<col style="width: 34%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -95,7 +95,14 @@ C++ (legacy)</td>
 <td style="text-align: center;">FIT VUT BIT assignments</td>
 <td style="text-align: center;"><em>active</em></td>
 <td style="text-align: center;"><em>many</em></td>
-<td style="text-align: center;">Public archives: <a href="https://github.com/nickonegen/VUT-FIT-IOS2022-projekt1">IOS₁</a> <a href="https://github.com/nickonegen/VUT-FIT-IOS2022-projekt2">IOS₂</a> <a href="https://github.com/nickonegen/VUT-FIT-ISU2022-cvicenia">ISU</a> <a href="https://github.com/nickonegen/VUT-FIT-INC2022-projekt">INC</a> <a href="https://github.com/nickonegen/VUT-FIT-INP2022-projekt1">INP₁</a> <a href="https://github.com/nickonegen/VUT-FIT-INP2022-projekt2">INP₂</a> <a href="https://github.com/nickonegen/VUT-FIT-ISS2022-projekt">ISS</a> <a href="https://github.com/nickonegen/VUT-FIT-IAL2022-ulohy">IAL</a></td>
+<td style="text-align: center;">Public archives: <a href="https://github.com/nickonegen/VUT-FIT-IOS2022-projekt1">IOS₁</a> <a href="https://github.com/nickonegen/VUT-FIT-IOS2022-projekt2">IOS₂</a> <a href="https://github.com/nickonegen/VUT-FIT-ISU2022-cvicenia">ISU</a> <a href="https://github.com/nickonegen/VUT-FIT-INC2022-projekt">INC</a> <a href="https://github.com/nickonegen/VUT-FIT-INP2022-projekt1">INP₁</a> <a href="https://github.com/nickonegen/VUT-FIT-INP2022-projekt2">INP₂</a> <a href="https://github.com/nickonegen/VUT-FIT-ISS2022-projekt">ISS</a> <a href="https://github.com/nickonegen/VUT-FIT-IAL2022-ulohy">IAL</a><br />
+Private archives: <a href="https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IEL2021-projekt">IEL</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IZP2021-projekt1">IZP₁</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IZP2021-projekt2">IZP₂</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IUS2021-projekty">IUS</a> <a href="https://github.com/nickonegen/VUT-FIT-IFJ2022-projekt/">IFJ</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">SPSJM IKT assignments</td>
+<td style="text-align: center;"><em>done, archived</em></td>
+<td style="text-align: center;"><em>many</em></td>
+<td style="text-align: center;">Private archives: <a href="https://github.com/nickonegen/sukromne/tree/main/archv/SPSJM/PRX">PRX</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/SPSJM/OSY">OSY</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/SPSJM/DAA">DAA</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/SPSJM/SXT">SXT</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/SPSJM/PAY">PAY</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/SPSJM/PRO">PRO</a> <a href="https://github.com/nickonegen/sukromne/tree/main/archv/SPSJM/RPJ">RPJ</a></td>
 </tr>
 </tbody>
 </table>
