@@ -163,7 +163,7 @@ Stats
 
 [stats-link-trophies]: https://github.com/ryo-ma/github-profile-trophy
 
-[stats-languages]: https://wakatime.com/share/@dd421270-8f1c-43aa-aa5b-ec52a2a18852/a5c34911-dd3a-4fca-9a9a-2b03d8c16481.svg
+[stats-languages]: https://wakatime.com/share/@dd421270-8f1c-43aa-aa5b-ec52a2a18852/5097f23e-8ce4-4ac7-84a9-e0134c723d77.png
 {:width="48%" align="left"}
 
 [stats-link-wakatime]: https://wakatime.com/
