@@ -68,10 +68,10 @@ const onegen = {
 
   <table style="width:97%;">
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 18%" />
-<col style="width: 20%" />
-<col style="width: 34%" />
+<col style="width: 23%" />
+<col style="width: 19%" />
+<col style="width: 21%" />
+<col style="width: 32%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -83,8 +83,7 @@ const onegen = {
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><a href="https://github.com/nickonegen/hexxo"><img src="src/images/projects/hexxo.png" alt="i1" /></a><br />
-🔒 <a href="https://github.com/nickonegen/hexxo">Hexxo</a></td>
+<td style="text-align: center;">🔒 <a href="https://github.com/nickonegen/hexxo">Hexxo</a></td>
 <td style="text-align: center;"><em>stale, running, rewrite in-progress</em></td>
 <td style="text-align: center;">JavaScript<br />
 Rust<br />
