@@ -113,9 +113,9 @@ Private archives: <a href="https://github.com/nickonegen/sukromne/tree/main/arch
 
   <h2>Stats</h2>
 
-  <p><a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="98%" align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nickonegen&amp;theme=rogue&amp;bg_color=1a1b27&amp;title_color=bf91f3&amp;line=70a5fd&amp;point=70a5fd&amp;color=70a5fd&amp;radius=12&amp;area=true&amp;area_color=70a5fd" alt="stats-graph" /></a> <br />
+  <p><a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="99%" align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nickonegen&amp;theme=rogue&amp;bg_color=1a1b27&amp;title_color=bf91f3&amp;line=70a5fd&amp;point=70a5fd&amp;color=70a5fd&amp;radius=12&amp;area=true&amp;area_color=70a5fd" alt="stats-graph" /></a> <br />
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=nickonegen&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=tokyonight&amp;disable_animations=false" alt="stats-github" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nickonegen&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=tokyonight&amp;disable_animations=false" alt="stats-github" /></a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" align="center" src="https://streak-stats.demolab.com/?user=nickonegen&amp;theme=tokyonight&amp;date_format=d%20F[%20Y]" alt="stats-streak" /></a> <br />
 <br />
 <a href="https://wakatime.com/"><img width="48%" align="left" src="https://wakatime.com/share/@dd421270-8f1c-43aa-aa5b-ec52a2a18852/5097f23e-8ce4-4ac7-84a9-e0134c723d77.png" alt="stats-languages" /></a>
