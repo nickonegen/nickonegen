@@ -144,12 +144,12 @@ Stats
 [link-discord]: https://discord.com/users/258681302960701450
 
 [stats-graph]: https://github-readme-activity-graph.cyclic.app/graph?username=nickonegen&theme=rogue&bg_color=1a1b27&title_color=bf91f3&line=70a5fd&point=70a5fd&color=70a5fd&radius=12&area=true&area_color=70a5fd
-{:width="98%" align="center"}
+{:width="99%" align="center"}
 
 [stats-link-graph]: https://github.com/Ashutosh00710/github-readme-activity-graph
 
 [stats-github]: https://github-readme-stats.vercel.app/api?username=nickonegen&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&disable_animations=false
-{:width="48%" align="center"}
+{:width="48%" align="left"}
 
 [stats-link-github]: https://github.com/anuraghazra/github-readme-stats
 
