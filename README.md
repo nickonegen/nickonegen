@@ -118,7 +118,7 @@ Private archives: <a href="https://github.com/nickonegen/sukromne/tree/main/arch
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=nickonegen&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=tokyonight&amp;disable_animations=false" alt="stats-github" /></a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="48%" align="center" src="https://streak-stats.demolab.com/?user=nickonegen&amp;theme=tokyonight&amp;date_format=d%20F[%20Y]" alt="stats-streak" /></a> <br />
 <br />
-<a href="https://wakatime.com/"><img width="48%" align="left" src="https://wakatime.com/share/@dd421270-8f1c-43aa-aa5b-ec52a2a18852/a5c34911-dd3a-4fca-9a9a-2b03d8c16481.svg" alt="stats-languages" /></a>
+<a href="https://wakatime.com/"><img width="48%" align="left" src="https://wakatime.com/share/@dd421270-8f1c-43aa-aa5b-ec52a2a18852/5097f23e-8ce4-4ac7-84a9-e0134c723d77.png" alt="stats-languages" /></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="32%" align="center" src="https://github-profile-trophy.vercel.app/?username=nickonegen&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&amp;column=3&amp;theme=onestar&amp;no-bg=true" alt="stats-trophies" /></a></p>
 
 </div>
