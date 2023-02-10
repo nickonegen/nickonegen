@@ -158,12 +158,12 @@ Stats
 
 [stats-link-streak]: https://github.com/DenverCoder1/github-readme-streak-stats
 
-[stats-trophies]: https://github-profile-trophy.vercel.app/?username=nickonegen&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=4&theme=onestar&no-bg=true
+[stats-trophies]: https://github-profile-trophy.vercel.app/?username=nickonegen&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=3&theme=onestar&no-bg=true
 {:width="32%" align="center"}
 
 [stats-link-trophies]: https://github.com/ryo-ma/github-profile-trophy
 
 [stats-languages]: https://wakatime.com/share/@dd421270-8f1c-43aa-aa5b-ec52a2a18852/a5c34911-dd3a-4fca-9a9a-2b03d8c16481.svg
-{:width="48%" align="center"}
+{:width="48%" align="left"}
 
 [stats-link-wakatime]: https://wakatime.com/
