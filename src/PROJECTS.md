@@ -1,26 +1,26 @@
-  ----------------------------------------------------------------------------
-     **Project**       **Status**    **Languages**       **Description**
-  ------------------ -------------- --------------- --------------------------
-   [![i1][i1]][l1]\     *stale,       JavaScript\     Personal semi--private
-      🔒 [Hexxo]         running,         Rust\        Discord bot powered by
-                        rewrite      C++ (legacy)    Sapphire/D.JS with music
-                      in-progress*                   playback, art galleries,
-                                                    stargazing and a medley of
-                                                         random commands
+  -------------------------------------------------------------------------
+     **Project**      **Status**    **Languages**      **Description**
+  ----------------- -------------- --------------- ------------------------
+      🔒 [Hexxo]        *stale,       JavaScript\    Personal semi--private
+                       running,         Rust\       Discord bot powered by
+                       rewrite      C++ (legacy)   Sapphire/D.JS with music
+                     in-progress*                  playback, art galleries,
+                                                   stargazing and a medley
+                                                      of random commands
 
-     FIT VUT BIT        *active*        *many*       Public archives: [IOS₁]
-     assignments                                    [IOS₂] [ISU] [INC] [INP₁]
-                                                       [INP₂] [ISS] [IAL]\
-                                                     Private archives: [IEL]
-                                                    [IZP₁] [IZP₂] [IUS] [IFJ]
+     FIT VUT BIT       *active*        *many*      Public archives: [IOS₁]
+     assignments                                      [IOS₂] [ISU] [INC]
+                                                     [INP₁] [INP₂] [ISS]
+                                                            [IAL]\
+                                                   Private archives: [IEL]
+                                                     [IZP₁] [IZP₂] [IUS]
+                                                            [IFJ]
 
-      SPSJM IKT          *done,         *many*       Private archives: [PRX]
-     assignments       archived*                     [OSY] [DAA] [SXT] [PAY]
-                                                           [PRO] [RPJ]
-  ----------------------------------------------------------------------------
+      SPSJM IKT         *done,         *many*      Private archives: [PRX]
+     assignments      archived*                    [OSY] [DAA] [SXT] [PAY]
+                                                         [PRO] [RPJ]
+  -------------------------------------------------------------------------
 
-[i1]: src/images/projects/hexxo.png
-[l1]: https://github.com/nickonegen/hexxo
 [Hexxo]: https://github.com/nickonegen/hexxo
 
 [IEL]: https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IEL2021-projekt
