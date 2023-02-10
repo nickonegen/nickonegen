@@ -25,8 +25,8 @@ all:
 	# "Transpile" README.md into HTML
 	#
 	kramdown -i kramdown -o html ${SRC} \
-	| sed 's/&gt;/>/g' \
-	| sed 's/&lt;/</g' > ${OUT}
+		| sed 's/&gt;/>/g' \
+		| sed 's/&lt;/</g' > ${OUT}
 	#
 	# Remove components and temporary files, restore original README.md
 	#
