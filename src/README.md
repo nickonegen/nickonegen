@@ -1,10 +1,11 @@
 {::options auto_ids="false" entity_output=:numeric /}
 <!-- HEADER -->
 
+<div markdown="1">
+
 [![profile-image][profile-image]][profile-link]
 
-<div markdown="1">
-###  [![profile-title][profile-title]][profile-link]
+### [![profile-title][profile-title]][profile-link] ###
 
 Hey-o, I'm **Nick *Onegen***,
 a dude who likes computers and
@@ -16,8 +17,10 @@ other such things! ^^
 [![badge-editor-arduino][badge-editor-arduino]][badge-link-arduino] \\
 [![badge-os-endeavour][badge-os-endeavour]][badge-link-endeavour]
 [![badge-os-fedora][badge-os-fedora]][badge-link-fedora]
-[![badge-os-windows][badge-os-windows]][badge-link-wikiwin10] \\
+[![badge-os-windows][badge-os-windows]][badge-link-wikiwin10]
+
 [![badge-lang-all][badge-lang-all]][profile-link]
+
 </div>
 {:align="center"}
 
@@ -95,12 +98,12 @@ Stats
 
 <!-- IMAGE/LINK DEFINITIONS -->
 
-[profile-title]: https://readme-typing-svg.demolab.com/?font=Murecho&weight=700&size=45&duration=7500&pause=1&color=BF91F3&center=true&vCenter=true&width=435&lines=onegen;%D0%BE%D0%BD%D0%B5%D2%91%D0%B5%D0%BD;%E3%82%AA%E3%83%8D%E3%82%B2%E3%83%B3
+[profile-title]: src/images/onegen.svg
 
 [profile-link]: https://github.com/nickonegen
 
 [profile-image]: src/images/fox_computer.jpg
-{:align="right" width="33%"}
+{:align="right" width="35%"}
 
 [divider]: src/images/borderseperator.gif
 
