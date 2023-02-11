@@ -1,9 +1,10 @@
 <!-- HEADER -->
 
-<p><a href="https://github.com/nickonegen"><img align="right" width="33%" src="src/images/fox_computer.jpg" alt="profile-image" /></a></p>
-
 <div align="center">
-  <h3><a href="https://github.com/nickonegen"><img src="https://readme-typing-svg.demolab.com/?font=Murecho&amp;weight=700&amp;size=45&amp;duration=7500&amp;pause=1&amp;color=BF91F3&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=onegen;%D0%BE%D0%BD%D0%B5%D2%91%D0%B5%D0%BD;%E3%82%AA%E3%83%8D%E3%82%B2%E3%83%B3" alt="profile-title" /></a></h3>
+
+  <p><a href="https://github.com/nickonegen"><img align="right" width="35%" src="src/images/fox_computer.jpg" alt="profile-image" /></a></p>
+
+  <h3><a href="https://github.com/nickonegen"><img src="src/images/onegen.svg" alt="profile-title" /></a></h3>
 
   <p>Hey-o, I’m <strong>Nick <em>Onegen</em></strong>,
 a dude who likes computers and
@@ -15,8 +16,10 @@ other such things! ^^</p>
 <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-%2300979d?logo=arduino&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-editor-arduino" /></a> <br />
 <a href="https://endeavouros.com/"><img src="https://img.shields.io/badge/-EndeavourOS-%237f7fff?logo=endeavouros&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-os-endeavour" /></a>
 <a href="https://getfedora.org/en/workstation/"><img src="https://img.shields.io/badge/-Fedora_37-%2351a2da?logo=fedora&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-os-fedora" /></a>
-<a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://img.shields.io/badge/-Windows_10-%230078d6?logo=windows&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-os-windows" /></a> <br />
-<a href="https://github.com/nickonegen"><img width="62%" src="src/images/langs.png" alt="badge-lang-all" /></a></p>
+<a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://img.shields.io/badge/-Windows_10-%230078d6?logo=windows&amp;labelColor=4c566a&amp;style=flat-square" alt="badge-os-windows" /></a></p>
+
+  <p><a href="https://github.com/nickonegen"><img width="62%" src="src/images/langs.png" alt="badge-lang-all" /></a></p>
+
 </div>
 
 <p><a href="https://github.com/nickonegen"><img src="src/images/borderseperator.gif" alt="divider" /></a></p>
